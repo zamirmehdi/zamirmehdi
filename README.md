@@ -76,7 +76,6 @@ Here are some ideas to get you started:
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zamirmehdi&show_icons=true&locale=en&layout=compact" alt="zamirmehdi" /></p> -->
 <!-- <br> -->
 
-<!--
+
 ### Github Statistics:
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zamirmehdi&show_icons=true&theme=dracula" alt="zamirmehdi" /></p>
--->
