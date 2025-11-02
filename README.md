@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <!--   <a href="https://linkedin.com/in/amzarrinnezhad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amzarrinnezhad" height="50" width="53.3" /></a> -->
   <a href="mailto:amzarrinnezhad@gmail.com"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Email" height="40" width="40" /> amzarrinnezhad@gmail.com</a>
   ,  <a href="https://linkedin.com/in/amzarrinnezhad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amzarrinnezhad" height="30" width="50" />amzarrinnezhad</a>
-  ,  </r><a href="https://instagram.com/_amirmehdy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amirmehdy_" height="30" width="50" />_amirmehdy_</a>
+  <!-- ,  </r><a href="https://instagram.com/_amirmehdy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amirmehdy_" height="30" width="50" />_amirmehdy_</a> -->
+  
 <!--   <a href="https://instagram.com/_amirmehdy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amirmehdy_" height="50" width="53.3" /></a> -->
 </p>
 <br>
