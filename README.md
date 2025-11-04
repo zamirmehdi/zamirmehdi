@@ -1,8 +1,9 @@
 <!-- PROFILE README: Professional / Academic-Focused -->
+<!--
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=zamirmehdi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
+-->
 <h1 align="center">Amirmehdi Zarrinnezhad</h1>
 <!-- <h3 align="center">AI and Computer Science Enthusiast</h3> -->
 <!-- <p align="center"><em>“Turning data into decisions.”</em></p> -->
@@ -17,9 +18,9 @@
 - 📩 Connect with me:
 <!-- ### 🌐 Connect with Me  -->
 <p align="center">
-  <a href="mailto:amzarrinnezhad@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30"/> amzarrinnezhad@gmail.com</a> |
-  <a href="https://linkedin.com/in/amzarrinnezhad"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/> amzarrinnezhad</a> |
-  <a href="https://zamirmehdi.github.io"><!-- <img src="https://www.svgrepo.com/show/217771/browser-website.svg" width="30"/> --><img src="https://www.svgrepo.com/show/366121/emblem-web.svg" width="30"/> zamirmehdi.github.io</a>
+  <a href="mailto:amzarrinnezhad@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="30"/> amzarrinnezhad@gmail.com</a> |
+  <a href="https://zamirmehdi.github.io"><!-- <img src="https://www.svgrepo.com/show/217771/browser-website.svg" width="30"/> --><img src="https://www.svgrepo.com/show/366121/emblem-web.svg" width="30"/> zamirmehdi.github.io</a>  |
+  <a href="https://linkedin.com/in/amzarrinnezhad"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/> amzarrinnezhad</a>
 </p>
 
 
