@@ -17,9 +17,9 @@
 - 📩 Connect with me:
 <!-- ### 🌐 Connect with Me  -->
 <p align="center">
-  <a href="mailto:amzarrinnezhad@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" width="35"/> amzarrinnezhad@gmail.com</a> |
+  <a href="mailto:amzarrinnezhad@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30"/> amzarrinnezhad@gmail.com</a> |
   <a href="https://linkedin.com/in/amzarrinnezhad"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/> amzarrinnezhad</a> |
-  <a href="https://zamirmehdi.github.io"><!-- <img src="https://www.svgrepo.com/show/217771/browser-website.svg" width="30"/> -->🌐 zamirmehdi.github.io</a>
+  <a href="https://zamirmehdi.github.io"><!-- <img src="https://www.svgrepo.com/show/217771/browser-website.svg" width="30"/> --><img src="https://www.svgrepo.com/show/366121/emblem-web.svg" width="30"/> zamirmehdi.github.io</a>
 </p>
 
 
