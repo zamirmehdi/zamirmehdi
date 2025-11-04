@@ -9,7 +9,7 @@
 
 <!-- --- -->
 
-### 🧭 About Me  
+### 👤 About Me  
 - 🎓 B.Sc. in Computer Engineering — [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/)  
 - 🧠 Passionate about AI and Computer Science <!-- building intelligent systems at the intersection of **AI**, **data**, and **neuroscience**.  -->
 - 💡 Interested in research, open-source collaboration, and data-driven problem solving.  
@@ -39,7 +39,7 @@
 <!--
 ### 🧠 My Focus Areas  
 -->
-### 🧠 Research & Technical Interests 
+### 💻 Research & Technical Interests 
 > AI • Deep Learning • Data Science • Neuroscience • GNNs • Generative Models • NLP • Vision • Computational Biology • Medical ML  
 
 
@@ -92,7 +92,7 @@
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="50" height="50"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
