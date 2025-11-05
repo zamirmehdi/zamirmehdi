@@ -68,6 +68,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white)
 ![NWB](https://img.shields.io/badge/NWB-%23007ACC?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNiAzQzguMjYgMyAzIDguMjYgMyAxNnM1LjI2IDEzIDEzIDEzIDEzLTUuMjYgMTMtMTMtNS4yNi0xMy0xMy0xM3pNMTEuMzMgMjAuNjdsLS42Ni0yLjg3aDEuMjZsLjI2IDEuMTloLjAybDEuMy0xLjE5aDEuNDRsLTEuNjggMS4zNCAxLjkgMS41M2gtMS42NkwxMSAxOC44MXYxLjg2em00LjY3LTEuNzhjLS4wOS0uMzcuMDQtLjczLjM0LS45Ny4yMi0uMTUuNTMtLjI3Ljg5LS4yN2guMDlsLjEtLjQ1aC0uOWwtLjItMS4yNGgxLjAxbC4xOC45OGgxLjE3bC4xOS0uOThoMS4wMWwtLjIgMS4yNGgtLjg5bC0uMTEuNDVoLjkxbC0uMjEgMS4zNWgtMS4wOGwuMTItLjYzaC0uOTNsLS4xMi42M2gtMS4wOWwtLjItMS4zNXoiLz48L3N2Zz4=)
 ![HDF5](https://img.shields.io/badge/HDF5-006400?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNiA0Yy02LjYyIDAtMTIgNS4zOC0xMiAxMnM1LjM4IDEyIDEyIDEyIDEyLTUuMzggMTItMTItNS4zOC0xMi0xMi0xMnptMCAyMmMtNS41MiAwLTEwLTQuNDgtMTAtMTBzNC40OC0xMCAxMC0xMCAxMCA0LjQ4IDEwIDEwLTQuNDggMTAtMTAgMTB6Ii8+PC9zdmc+)
 
@@ -128,7 +129,6 @@
 <a href="https://www.hdfgroup.org/solutions/hdf5/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HDF_logo.svg/1000px-HDF_logo.svg.png?20161027033113" alt="hdf5" width="50" height="50"/>
 </a>
-
 <a href="https://www.nwb.org/" target="_blank" rel="noreferrer">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfZR-KJatetRlaK3E-5z8bHq57Al-BQJENQ&s" alt="nwb" width="50" height="50"/>
 </a>
