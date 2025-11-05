@@ -133,11 +133,16 @@
 
 ### 📈 GitHub Statistics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zamirmehdi&show_icons=true&theme=vision-friendly-dark" alt="stats" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=zamirmehdi&show_icons=true&theme=dark" alt="stats" height="170"/> -->
+  | <a href="https://github.com/zamirmehdi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zamirmehdi&show_icons=true&hide=issues&cache_seconds=86400&theme=dark&hide_border=true" alt="Amirmehdi's's github stats" /></a> | <a href="https://github.com/zamirmehdi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamirmehdi&layout=compact&theme=dark&hide_border=true" /></a> |
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=zamirmehdi&show_icons=true&hide=issues&cache_seconds=86400&theme=dark" height="170"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamirmehdi&layout=compact&theme=dark" height="170"/> -->
+
+  
  <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamirmehdi&theme=dracula" alt="streak" height="170"/>
 </p>
 <p align="center"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamirmehdi&layout=compact&theme=vision-friendly-dark" height="170"/>
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zamirmehdi&theme=react-dark&bg_color=0D1117"/>
