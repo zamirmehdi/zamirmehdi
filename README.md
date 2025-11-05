@@ -50,23 +50,28 @@
 
 #### 🏷️ Core Technologies  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
 #### 💻 Development & Frameworks  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
-#### 🧮 Databases & Languages  
+#### 🧮 Data & Languages  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![NWB](https://img.shields.io/badge/NWB-%23007ACC?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNiAzQzguMjYgMyAzIDguMjYgMyAxNnM1LjI2IDEzIDEzIDEzIDEzLTUuMjYgMTMtMTMtNS4yNi0xMy0xMy0xM3pNMTEuMzMgMjAuNjdsLS42Ni0yLjg3aDEuMjZsLjI2IDEuMTloLjAybDEuMy0xLjE5aDEuNDRsLTEuNjggMS4zNCAxLjkgMS41M2gtMS42NkwxMSAxOC44MXYxLjg2em00LjY3LTEuNzhjLS4wOS0uMzcuMDQtLjczLjM0LS45Ny4yMi0uMTUuNTMtLjI3Ljg5LS4yN2guMDlsLjEtLjQ1aC0uOWwtLjItMS4yNGgxLjAxbC4xOC45OGgxLjE3bC4xOS0uOThoMS4wMWwtLjIgMS4yNGgtLjg5bC0uMTEuNDVoLjkxbC0uMjEgMS4zNWgtMS4wOGwuMTItLjYzaC0uOTNsLS4xMi42M2gtMS4wOWwtLjItMS4zNXoiLz48L3N2Zz4=)
+![HDF5](https://img.shields.io/badge/HDF5-006400?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNiA0Yy02LjYyIDAtMTIgNS4zOC0xMiAxMnM1LjM4IDEyIDEyIDEyIDEyLTUuMzggMTItMTItNS4zOC0xMi0xMi0xMnptMCAyMmMtNS41MiAwLTEwLTQuNDgtMTAtMTBzNC40OC0xMCAxMC0xMCAxMCA0LjQ4IDEwIDEwLTQuNDggMTAtMTAgMTB6Ii8+PC9zdmc+)
+
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -105,6 +110,9 @@
 
 
   <p align="center"> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+</a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/> </a> 
@@ -116,6 +124,15 @@
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a>
+
+<a href="https://www.hdfgroup.org/solutions/hdf5/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HDF_logo.svg/1000px-HDF_logo.svg.png?20161027033113" alt="hdf5" width="50" height="50"/>
+</a>
+
+<a href="https://www.nwb.org/" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfZR-KJatetRlaK3E-5z8bHq57Al-BQJENQ&s" alt="nwb" width="50" height="50"/>
+</a>
+
   </p>
 </p>
 
