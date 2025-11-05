@@ -133,11 +133,11 @@
 
 ### 📈 GitHub Statistics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zamirmehdi&show_icons=true&theme=dracula" alt="stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zamirmehdi&show_icons=true&theme=vision-friendly-dark" alt="stats" height="170"/>
  <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamirmehdi&theme=dracula" alt="streak" height="170"/>
 </p>
 <p align="center"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamirmehdi&layout=compact&theme=dracula" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamirmehdi&layout=compact&theme=vision-friendly-dark" height="170"/>
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zamirmehdi&theme=react-dark&bg_color=0D1117"/>
