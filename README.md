@@ -41,7 +41,7 @@
 ### 🧠 My Focus Areas  
 -->
 ### 💻 Research & Technical Interests 
-> AI • ML • Deep Learning • Data Science • Neuroscience • GNNs • Generative Models • NLP • Vision • Computational Biology • Medical ML  
+> AI • Deep Learning • Data Science • Neuroscience • GNNs • Generative Models • NLP • Vision • Computational Biology • Medical ML  
 
 
 ---
