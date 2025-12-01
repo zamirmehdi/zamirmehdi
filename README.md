@@ -48,7 +48,7 @@
 
 ### 🧰 Skills & Tools  
 
-#### 🏷️ Core Technologies:  
+####  >  Core Technologies:  
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -60,7 +60,7 @@
 
 </div>
 
-#### 💻 Development & Frameworks:  
+####  >  Development & Frameworks:  
 <div align="center">
   
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -72,7 +72,7 @@
 
 </div>
 
-#### 🧮 Data & Languages:  
+####  >  Data & Languages:  
 
 <div align="center">
   
